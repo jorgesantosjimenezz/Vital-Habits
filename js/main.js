@@ -2,6 +2,8 @@
    VITAFLOW — Main JavaScript
    ============================================================ */
 
+document.addEventListener('DOMContentLoaded', () => {
+
 // ── Mobile Menu ──────────────────────────────────────────────
 const hamburger = document.querySelector('.hamburger');
 const mobileMenu = document.querySelector('.mobile-menu');
@@ -16,6 +18,16 @@ if (hamburger && mobileMenu) {
     } else {
       bars.forEach(b => { b.style.transform = ''; b.style.opacity = ''; });
     }
+  });
+
+  // Close menu when a link is clicked
+  const mobileLinks = mobileMenu.querySelectorAll('a');
+  mobileLinks.forEach(link => {
+    link.addEventListener('click', () => {
+      mobileMenu.classList.remove('open');
+      const bars = hamburger.querySelectorAll('span');
+      bars.forEach(b => { b.style.transform = ''; b.style.opacity = ''; });
+    });
   });
 }
 
@@ -109,3 +121,5 @@ if ('IntersectionObserver' in window) {
     observer.observe(el);
   });
 }
+
+});
