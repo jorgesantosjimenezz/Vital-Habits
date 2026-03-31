@@ -25,7 +25,7 @@ const components = {
         <li><a href="${basePath}index.html">Home</a></li>
         <li><a href="${basePath}blog.html">Blog</a></li>
         <li><a href="${basePath}about.html">About</a></li>
-        
+        <li><a href="${basePath}index.html#contact">Contact</a></li>
       </ul>
       <a href="${basePath}blog.html" class="btn btn-primary nav-cta" style="padding:0.55rem 1.25rem;font-size:0.875rem;">Read Articles</a>
       <button class="hamburger" aria-label="Toggle menu" aria-expanded="false">
@@ -37,7 +37,7 @@ const components = {
     <a href="${basePath}index.html">Home</a>
     <a href="${basePath}blog.html">Blog</a>
     <a href="${basePath}about.html">About</a>
-    
+    <a href="${basePath}index.html#contact">Contact</a>
     <a href="${basePath}blog.html" class="btn btn-primary" style="margin-top:0.5rem;justify-content:center;">Read Articles →</a>
   </nav>
 </header>`,
@@ -66,7 +66,7 @@ const components = {
         <h4>Company</h4>
         <ul class="footer-links">
           <li><a href="${basePath}about.html">About Us</a></li>
-          
+          <li><a href="${basePath}index.html#contact">Contact</a></li>
           <li><a href="${basePath}privacy-policy.html">Privacy Policy</a></li>
           <li><a href="${basePath}terms-of-service.html">Terms of Service</a></li>
         </ul>
