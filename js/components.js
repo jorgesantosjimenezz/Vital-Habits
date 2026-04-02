@@ -58,8 +58,8 @@ const components = {
           <li><a href="${basePath}blog/healthy-morning-routine.html">Morning Routines</a></li>
           <li><a href="${basePath}blog/daily-habits-for-better-health.html">Daily Habits</a></li>
           <li><a href="${basePath}blog/healthy-sleep-habits.html">Sleep Health</a></li>
-          <li><a href="${basePath}blog.html">Nutrition Tips</a></li>
-          <li><a href="${basePath}blog.html">Mental Wellness</a></li>
+          <li><a href="${basePath}blog.html#nutrition">Nutrition Tips</a></li>
+          <li><a href="${basePath}blog.html#mental-wellness">Mental Wellness</a></li>
         </ul>
       </div>
       <div class="footer-col">
