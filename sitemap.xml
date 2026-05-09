@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://vitalhabits.blog/about.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://vitalhabits.blog/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://vitalhabits.blog/privacy-policy.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/terms-of-service.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/10-minute-mindfulness.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/20-minute-home-workout.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vitalhabits.blog/blog/5am-morning-club.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/anti-inflammatory-diet.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -21,7 +49,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vitalhabits.blog/blog/daily-habits-for-better-health.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vitalhabits.blog/blog/daily-self-care-habits.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/digital-detox-habits.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/drink-more-water.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/fix-sleep-schedule.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/gut-health-habits.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -33,11 +81,35 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vitalhabits.blog/blog/healthy-morning-routine.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/healthy-sleep-habits.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vitalhabits.blog/blog/hiit-training-guide.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vitalhabits.blog/blog/journaling-habit.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/keystone-habits.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/manage-stress-naturally.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vitalhabits.blog/blog/natural-insomnia-remedies.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/perfect-bedtime-routine.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -46,6 +118,14 @@
   </url>
   <url>
     <loc>https://vitalhabits.blog/blog/real-superfoods-guide.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/start-exercising.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vitalhabits.blog/blog/walking-daily-habit.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
